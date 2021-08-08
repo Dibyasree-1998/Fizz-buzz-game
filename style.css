@@ -1,0 +1,23 @@
+body {
+    margin-top: 250px;
+    text-align: center;
+    background: rgb(55, 212, 24);
+}
+
+button {
+    transition-duration: 0.4s;
+    text-decoration-style: dashed;
+    border-radius: 25px;
+    height: 50px;
+    width: 80px;
+}
+
+button:hover {
+    background-color: white;
+    color: rgb(211, 9, 9);
+}
+
+#input {
+    border-radius: 25px;
+    height: 50px;
+}
